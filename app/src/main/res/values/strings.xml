@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Photo using retrofit</string>
+    <string name="choose_image">Choose Camera</string>
+    <string name="error_writing_bitmap">Error Bitmap</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+</resources>
